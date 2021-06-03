@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="学生成绩管理系统">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/可执行文件/学生成绩管理系统.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

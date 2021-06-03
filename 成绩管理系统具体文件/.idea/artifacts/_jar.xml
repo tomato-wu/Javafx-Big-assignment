@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="最终版:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/_jar</output-path>
+    <root id="archive" name="最终版.jar">
+      <element id="module-output" name="最终版" />
+    </root>
+  </artifact>
+</component>

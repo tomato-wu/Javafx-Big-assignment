@@ -1,0 +1,14 @@
+#mainPane{
+    -fx-background-image: url("image/images1.jpg");
+    -fx-background-size: 220;
+}
+#submitButton {
+    -fx-background-color: cornflowerblue;
+    -fx-padding: 10px;
+    -fx-border-width: 30px;
+}
+.num-button  {
+    -fx-background-color: cornflowerblue;
+    -fx-padding: 10px;
+    -fx-fill-width: 30px;
+}
